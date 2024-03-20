@@ -1,9 +1,9 @@
 // code your solution here
 // function saturdayFun(activity = 'I want to roller-skate') {
-//     return `This Saturday, let's ${activity}!`;
+//     return `This Saturday, ${activity}!`;
 // }
 // function mondayWork(activity = 'go to the office') {
-//     return `This Monday, let's ${activity}!`;
+//     return `This Monday,  ${activity}!`;
 // }
 // function wrapAdjective(flair = "*") {
 //     return function(adjective = "special") {
